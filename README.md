@@ -1,4 +1,4 @@
-### Hi, I'm Tayyab 👋
+### Hi, I'm Tayyab 👋 :wave:
 
 I am a Web Developer. I am passionate about my job and my contribution to the world of modern web technologies.
 <!--
