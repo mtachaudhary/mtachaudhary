@@ -1,6 +1,6 @@
 ### Hi, I'm Tayyab 👋
 
-I am a Web Developer. I am passionate about my job and my contribution to the world of modern web technologies.
+I am a Software Developer. I am passionate about my job and my contribution to the world of modern web technologies.
 <!--
 **mtachaudhary/mtachaudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
